@@ -2,3 +2,4 @@
 - 👀 I’m interested in data science, various types of ML, and trying to make iOS apps
 - 🌱 I’m currently learning more about NLP
 - 📡 Looking for employment in the data science field :)
+- A couple projects are currently open, but most are closed. A preview into my answer for the common interview question "what is your biggest weakness": I like to work on multiple things at once, which is usually detrimental to my overall success 
